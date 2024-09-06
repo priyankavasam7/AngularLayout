@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "../src/app/assets/css/demo.css";
+@import "../src/app/assets/css/kaiadmin.css";
+@import "../src/app/assets/css/fonts.css";
+@import "../src/app/assets/css/fonts.min.css";
+@import "../src/app/assets/css/kaiadmin.min.css";
